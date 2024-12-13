@@ -15,3 +15,10 @@
 local.properties
 /.idea/.gitignore
 /.idea/vcs.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/emulatorDisplays.xml
+/.idea/runConfigurations.xml
+/automotive/release/baselineProfiles/0/automotive-release.dm
+/automotive/release/baselineProfiles/1/automotive-release.dm
+/automotive/release/automotive-release.apk
+/automotive/release/output-metadata.json
