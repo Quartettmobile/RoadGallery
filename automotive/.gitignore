@@ -1,1 +1,5 @@
 /build
+/release/baselineProfiles/0/automotive-release.dm
+/release/baselineProfiles/1/automotive-release.dm
+/release/automotive-release.apk
+/release/output-metadata.json

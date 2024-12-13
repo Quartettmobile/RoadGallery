@@ -15,8 +15,14 @@
 local.properties
 /.idea/.gitignore
 /.idea/vcs.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/compiler.xml
 /.idea/deploymentTargetSelector.xml
 /.idea/emulatorDisplays.xml
+/.idea/gradle.xml
+/.idea/kotlinc.xml
+/.idea/migrations.xml
+/.idea/misc.xml
 /.idea/runConfigurations.xml
 /automotive/release/baselineProfiles/0/automotive-release.dm
 /automotive/release/baselineProfiles/1/automotive-release.dm
