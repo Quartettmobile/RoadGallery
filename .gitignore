@@ -28,3 +28,4 @@ local.properties
 /automotive/release/baselineProfiles/1/automotive-release.dm
 /automotive/release/automotive-release.apk
 /automotive/release/output-metadata.json
+/.idea/
